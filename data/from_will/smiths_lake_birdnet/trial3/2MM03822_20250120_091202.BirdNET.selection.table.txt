@@ -1,0 +1,168 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	111.0	114.0	0	12000.0	Willie-wagtail	wilwag1	0.3403	smithslake/2MM03822_20250120_091202.wav	111.0
+2	Spectrogram 1	1	123.0	126.0	0	12000.0	Willie-wagtail	wilwag1	0.1903	smithslake/2MM03822_20250120_091202.wav	123.0
+3	Spectrogram 1	1	129.0	132.0	0	12000.0	Willie-wagtail	wilwag1	0.3632	smithslake/2MM03822_20250120_091202.wav	129.0
+4	Spectrogram 1	1	138.0	141.0	0	12000.0	Willie-wagtail	wilwag1	0.1416	smithslake/2MM03822_20250120_091202.wav	138.0
+5	Spectrogram 1	1	144.0	147.0	0	12000.0	Willie-wagtail	wilwag1	0.1260	smithslake/2MM03822_20250120_091202.wav	144.0
+6	Spectrogram 1	1	261.0	264.0	0	12000.0	Willie-wagtail	wilwag1	0.7595	smithslake/2MM03822_20250120_091202.wav	261.0
+7	Spectrogram 1	1	270.0	273.0	0	12000.0	Willie-wagtail	wilwag1	0.5730	smithslake/2MM03822_20250120_091202.wav	270.0
+8	Spectrogram 1	1	294.0	297.0	0	12000.0	Willie-wagtail	wilwag1	0.2704	smithslake/2MM03822_20250120_091202.wav	294.0
+9	Spectrogram 1	1	318.0	321.0	0	12000.0	Willie-wagtail	wilwag1	0.2862	smithslake/2MM03822_20250120_091202.wav	318.0
+10	Spectrogram 1	1	363.0	366.0	0	12000.0	Rainbow Lorikeet	railor5	0.1149	smithslake/2MM03822_20250120_091202.wav	363.0
+11	Spectrogram 1	1	390.0	393.0	0	12000.0	Willie-wagtail	wilwag1	0.8983	smithslake/2MM03822_20250120_091202.wav	390.0
+12	Spectrogram 1	1	495.0	498.0	0	12000.0	Eastern Whipbird	easwhi1	0.1443	smithslake/2MM03822_20250120_091202.wav	495.0
+13	Spectrogram 1	1	810.0	813.0	0	12000.0	Scarlet Myzomela	scamyz1	0.6511	smithslake/2MM03822_20250120_091202.wav	810.0
+14	Spectrogram 1	1	858.0	861.0	0	12000.0	Scarlet Myzomela	scamyz1	0.9851	smithslake/2MM03822_20250120_091202.wav	858.0
+15	Spectrogram 1	1	861.0	864.0	0	12000.0	Red-browed Firetail	rebfir1	0.1026	smithslake/2MM03822_20250120_091202.wav	861.0
+16	Spectrogram 1	1	963.0	966.0	0	12000.0	Red-browed Firetail	rebfir1	0.3029	smithslake/2MM03822_20250120_091202.wav	963.0
+17	Spectrogram 1	1	963.0	966.0	0	12000.0	Grey Fantail	gryfan1	0.1079	smithslake/2MM03822_20250120_091202.wav	963.0
+18	Spectrogram 1	1	1137.0	1140.0	0	12000.0	Red-browed Firetail	rebfir1	0.2887	smithslake/2MM03822_20250120_091202.wav	1137.0
+19	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Golden Whistler	golwhi1	0.7660	smithslake/2MM03822_20250120_091202.wav	1140.0
+20	Spectrogram 1	1	1140.0	1143.0	0	12000.0	Red-browed Firetail	rebfir1	0.1140	smithslake/2MM03822_20250120_091202.wav	1140.0
+21	Spectrogram 1	1	1173.0	1176.0	0	12000.0	Red-browed Firetail	rebfir1	0.1869	smithslake/2MM03822_20250120_091202.wav	1173.0
+22	Spectrogram 1	1	1236.0	1239.0	0	12000.0	Grey Fantail	gryfan1	0.1502	smithslake/2MM03822_20250120_091202.wav	1236.0
+23	Spectrogram 1	1	1272.0	1275.0	0	12000.0	Brown Gerygone	broger1	0.6449	smithslake/2MM03822_20250120_091202.wav	1272.0
+24	Spectrogram 1	1	1275.0	1278.0	0	12000.0	Brown Gerygone	broger1	0.4118	smithslake/2MM03822_20250120_091202.wav	1275.0
+25	Spectrogram 1	1	1290.0	1293.0	0	12000.0	Brown Gerygone	broger1	0.2293	smithslake/2MM03822_20250120_091202.wav	1290.0
+26	Spectrogram 1	1	1296.0	1299.0	0	12000.0	Brown Gerygone	broger1	0.1086	smithslake/2MM03822_20250120_091202.wav	1296.0
+27	Spectrogram 1	1	1305.0	1308.0	0	12000.0	Brown Gerygone	broger1	0.5016	smithslake/2MM03822_20250120_091202.wav	1305.0
+28	Spectrogram 1	1	1521.0	1524.0	0	12000.0	Brown Cuckoo-Dove	brcdov1	0.2241	smithslake/2MM03822_20250120_091202.wav	1521.0
+29	Spectrogram 1	1	1536.0	1539.0	0	12000.0	Pacific Koel	asikoe3	0.1048	smithslake/2MM03822_20250120_091202.wav	1536.0
+30	Spectrogram 1	1	1539.0	1542.0	0	12000.0	Pacific Koel	asikoe3	0.3006	smithslake/2MM03822_20250120_091202.wav	1539.0
+31	Spectrogram 1	1	1614.0	1617.0	0	12000.0	White-throated Treecreeper	whttre3	0.1009	smithslake/2MM03822_20250120_091202.wav	1614.0
+32	Spectrogram 1	1	1620.0	1623.0	0	12000.0	White-throated Treecreeper	whttre3	0.3177	smithslake/2MM03822_20250120_091202.wav	1620.0
+33	Spectrogram 1	1	1626.0	1629.0	0	12000.0	White-throated Treecreeper	whttre3	0.4971	smithslake/2MM03822_20250120_091202.wav	1626.0
+34	Spectrogram 1	1	1629.0	1632.0	0	12000.0	White-throated Treecreeper	whttre3	0.1597	smithslake/2MM03822_20250120_091202.wav	1629.0
+35	Spectrogram 1	1	1638.0	1641.0	0	12000.0	White-throated Treecreeper	whttre3	0.1496	smithslake/2MM03822_20250120_091202.wav	1638.0
+36	Spectrogram 1	1	1641.0	1644.0	0	12000.0	White-throated Treecreeper	whttre3	0.3711	smithslake/2MM03822_20250120_091202.wav	1641.0
+37	Spectrogram 1	1	1743.0	1746.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2254	smithslake/2MM03822_20250120_091202.wav	1743.0
+38	Spectrogram 1	1	1743.0	1746.0	0	12000.0	White-throated Treecreeper	whttre3	0.1238	smithslake/2MM03822_20250120_091202.wav	1743.0
+39	Spectrogram 1	1	1821.0	1824.0	0	12000.0	Bell Miner	belmin1	0.1135	smithslake/2MM03822_20250120_091202.wav	1821.0
+40	Spectrogram 1	1	1827.0	1830.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.4098	smithslake/2MM03822_20250120_091202.wav	1827.0
+41	Spectrogram 1	1	1833.0	1836.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.8550	smithslake/2MM03822_20250120_091202.wav	1833.0
+42	Spectrogram 1	1	1836.0	1839.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2595	smithslake/2MM03822_20250120_091202.wav	1836.0
+43	Spectrogram 1	1	1836.0	1839.0	0	12000.0	White-throated Treecreeper	whttre3	0.1080	smithslake/2MM03822_20250120_091202.wav	1836.0
+44	Spectrogram 1	1	1839.0	1842.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2231	smithslake/2MM03822_20250120_091202.wav	1839.0
+45	Spectrogram 1	1	1845.0	1848.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2769	smithslake/2MM03822_20250120_091202.wav	1845.0
+46	Spectrogram 1	1	1848.0	1851.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.5345	smithslake/2MM03822_20250120_091202.wav	1848.0
+47	Spectrogram 1	1	1851.0	1854.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.1883	smithslake/2MM03822_20250120_091202.wav	1851.0
+48	Spectrogram 1	1	1854.0	1857.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.7956	smithslake/2MM03822_20250120_091202.wav	1854.0
+49	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.7230	smithslake/2MM03822_20250120_091202.wav	1857.0
+50	Spectrogram 1	1	1857.0	1860.0	0	12000.0	Bell Miner	belmin1	0.2439	smithslake/2MM03822_20250120_091202.wav	1857.0
+51	Spectrogram 1	1	1860.0	1863.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.5868	smithslake/2MM03822_20250120_091202.wav	1860.0
+52	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.3787	smithslake/2MM03822_20250120_091202.wav	1863.0
+53	Spectrogram 1	1	1863.0	1866.0	0	12000.0	Bell Miner	belmin1	0.2618	smithslake/2MM03822_20250120_091202.wav	1863.0
+54	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Bell Miner	belmin1	0.6618	smithslake/2MM03822_20250120_091202.wav	1866.0
+55	Spectrogram 1	1	1866.0	1869.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.3203	smithslake/2MM03822_20250120_091202.wav	1866.0
+56	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Bell Miner	belmin1	0.7336	smithslake/2MM03822_20250120_091202.wav	1869.0
+57	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.3453	smithslake/2MM03822_20250120_091202.wav	1869.0
+58	Spectrogram 1	1	1869.0	1872.0	0	12000.0	Superb Lyrebird	suplyr1	0.1304	smithslake/2MM03822_20250120_091202.wav	1869.0
+59	Spectrogram 1	1	1875.0	1878.0	0	12000.0	Bell Miner	belmin1	0.2308	smithslake/2MM03822_20250120_091202.wav	1875.0
+60	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.1882	smithslake/2MM03822_20250120_091202.wav	1878.0
+61	Spectrogram 1	1	1878.0	1881.0	0	12000.0	Bell Miner	belmin1	0.1711	smithslake/2MM03822_20250120_091202.wav	1878.0
+62	Spectrogram 1	1	1878.0	1881.0	0	12000.0	White-throated Treecreeper	whttre3	0.1038	smithslake/2MM03822_20250120_091202.wav	1878.0
+63	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.8162	smithslake/2MM03822_20250120_091202.wav	1881.0
+64	Spectrogram 1	1	1881.0	1884.0	0	12000.0	Bell Miner	belmin1	0.1550	smithslake/2MM03822_20250120_091202.wav	1881.0
+65	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.4299	smithslake/2MM03822_20250120_091202.wav	1884.0
+66	Spectrogram 1	1	1884.0	1887.0	0	12000.0	Bell Miner	belmin1	0.2926	smithslake/2MM03822_20250120_091202.wav	1884.0
+67	Spectrogram 1	1	1890.0	1893.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.3059	smithslake/2MM03822_20250120_091202.wav	1890.0
+68	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Bell Miner	belmin1	0.6002	smithslake/2MM03822_20250120_091202.wav	1893.0
+69	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.3417	smithslake/2MM03822_20250120_091202.wav	1893.0
+70	Spectrogram 1	1	1893.0	1896.0	0	12000.0	Eastern Whipbird	easwhi1	0.1630	smithslake/2MM03822_20250120_091202.wav	1893.0
+71	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Bell Miner	belmin1	0.7137	smithslake/2MM03822_20250120_091202.wav	1902.0
+72	Spectrogram 1	1	1902.0	1905.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.4501	smithslake/2MM03822_20250120_091202.wav	1902.0
+73	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Bell Miner	belmin1	0.5434	smithslake/2MM03822_20250120_091202.wav	1905.0
+74	Spectrogram 1	1	1905.0	1908.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2265	smithslake/2MM03822_20250120_091202.wav	1905.0
+75	Spectrogram 1	1	1908.0	1911.0	0	12000.0	Bell Miner	belmin1	0.1053	smithslake/2MM03822_20250120_091202.wav	1908.0
+76	Spectrogram 1	1	1971.0	1974.0	0	12000.0	White-throated Treecreeper	whttre3	0.8225	smithslake/2MM03822_20250120_091202.wav	1971.0
+77	Spectrogram 1	1	1971.0	1974.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.1235	smithslake/2MM03822_20250120_091202.wav	1971.0
+78	Spectrogram 1	1	1974.0	1977.0	0	12000.0	White-throated Treecreeper	whttre3	0.4980	smithslake/2MM03822_20250120_091202.wav	1974.0
+79	Spectrogram 1	1	1974.0	1977.0	0	12000.0	Red-browed Firetail	rebfir1	0.1034	smithslake/2MM03822_20250120_091202.wav	1974.0
+80	Spectrogram 1	1	1977.0	1980.0	0	12000.0	White-throated Treecreeper	whttre3	0.9070	smithslake/2MM03822_20250120_091202.wav	1977.0
+81	Spectrogram 1	1	1977.0	1980.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.1499	smithslake/2MM03822_20250120_091202.wav	1977.0
+82	Spectrogram 1	1	1983.0	1986.0	0	12000.0	Red-browed Firetail	rebfir1	0.2217	smithslake/2MM03822_20250120_091202.wav	1983.0
+83	Spectrogram 1	1	1986.0	1989.0	0	12000.0	Red-browed Firetail	rebfir1	0.6797	smithslake/2MM03822_20250120_091202.wav	1986.0
+84	Spectrogram 1	1	1992.0	1995.0	0	12000.0	Red-browed Firetail	rebfir1	0.1048	smithslake/2MM03822_20250120_091202.wav	1992.0
+85	Spectrogram 1	1	1995.0	1998.0	0	12000.0	Red-browed Firetail	rebfir1	0.2464	smithslake/2MM03822_20250120_091202.wav	1995.0
+86	Spectrogram 1	1	2001.0	2004.0	0	12000.0	Red-browed Firetail	rebfir1	0.1151	smithslake/2MM03822_20250120_091202.wav	2001.0
+87	Spectrogram 1	1	2004.0	2007.0	0	12000.0	Red-browed Firetail	rebfir1	0.1530	smithslake/2MM03822_20250120_091202.wav	2004.0
+88	Spectrogram 1	1	2013.0	2016.0	0	12000.0	Red-browed Firetail	rebfir1	0.7451	smithslake/2MM03822_20250120_091202.wav	2013.0
+89	Spectrogram 1	1	2043.0	2046.0	0	12000.0	Red-browed Firetail	rebfir1	0.6518	smithslake/2MM03822_20250120_091202.wav	2043.0
+90	Spectrogram 1	1	2103.0	2106.0	0	12000.0	Red-browed Firetail	rebfir1	0.1601	smithslake/2MM03822_20250120_091202.wav	2103.0
+91	Spectrogram 1	1	2121.0	2124.0	0	12000.0	Red-browed Firetail	rebfir1	0.2097	smithslake/2MM03822_20250120_091202.wav	2121.0
+92	Spectrogram 1	1	2133.0	2136.0	0	12000.0	White-throated Treecreeper	whttre3	0.2372	smithslake/2MM03822_20250120_091202.wav	2133.0
+93	Spectrogram 1	1	2136.0	2139.0	0	12000.0	White-throated Treecreeper	whttre3	0.7955	smithslake/2MM03822_20250120_091202.wav	2136.0
+94	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Red-browed Firetail	rebfir1	0.3942	smithslake/2MM03822_20250120_091202.wav	2139.0
+95	Spectrogram 1	1	2139.0	2142.0	0	12000.0	White-throated Treecreeper	whttre3	0.3804	smithslake/2MM03822_20250120_091202.wav	2139.0
+96	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Eastern Yellow Robin	yelrob1	0.2489	smithslake/2MM03822_20250120_091202.wav	2139.0
+97	Spectrogram 1	1	2139.0	2142.0	0	12000.0	Bell Miner	belmin1	0.1890	smithslake/2MM03822_20250120_091202.wav	2139.0
+98	Spectrogram 1	1	2142.0	2145.0	0	12000.0	Red-browed Firetail	rebfir1	0.1164	smithslake/2MM03822_20250120_091202.wav	2142.0
+99	Spectrogram 1	1	2163.0	2166.0	0	12000.0	White-throated Treecreeper	whttre3	0.8970	smithslake/2MM03822_20250120_091202.wav	2163.0
+100	Spectrogram 1	1	2166.0	2169.0	0	12000.0	White-throated Treecreeper	whttre3	0.7205	smithslake/2MM03822_20250120_091202.wav	2166.0
+101	Spectrogram 1	1	2454.0	2457.0	0	12000.0	Common Bronzewing	combro1	0.1039	smithslake/2MM03822_20250120_091202.wav	2454.0
+102	Spectrogram 1	1	2481.0	2484.0	0	12000.0	Common Bronzewing	combro1	0.1509	smithslake/2MM03822_20250120_091202.wav	2481.0
+103	Spectrogram 1	1	2484.0	2487.0	0	12000.0	Common Bronzewing	combro1	0.1783	smithslake/2MM03822_20250120_091202.wav	2484.0
+104	Spectrogram 1	1	2493.0	2496.0	0	12000.0	Red-browed Firetail	rebfir1	0.3566	smithslake/2MM03822_20250120_091202.wav	2493.0
+105	Spectrogram 1	1	2499.0	2502.0	0	12000.0	Red-browed Firetail	rebfir1	0.5062	smithslake/2MM03822_20250120_091202.wav	2499.0
+106	Spectrogram 1	1	2502.0	2505.0	0	12000.0	Red-browed Firetail	rebfir1	0.5142	smithslake/2MM03822_20250120_091202.wav	2502.0
+107	Spectrogram 1	1	2508.0	2511.0	0	12000.0	Common Bronzewing	combro1	0.1901	smithslake/2MM03822_20250120_091202.wav	2508.0
+108	Spectrogram 1	1	2511.0	2514.0	0	12000.0	Common Bronzewing	combro1	0.1151	smithslake/2MM03822_20250120_091202.wav	2511.0
+109	Spectrogram 1	1	2514.0	2517.0	0	12000.0	Common Bronzewing	combro1	0.1128	smithslake/2MM03822_20250120_091202.wav	2514.0
+110	Spectrogram 1	1	2520.0	2523.0	0	12000.0	Common Bronzewing	combro1	0.1041	smithslake/2MM03822_20250120_091202.wav	2520.0
+111	Spectrogram 1	1	2538.0	2541.0	0	12000.0	Common Bronzewing	combro1	0.1111	smithslake/2MM03822_20250120_091202.wav	2538.0
+112	Spectrogram 1	1	2628.0	2631.0	0	12000.0	Common Bronzewing	combro1	0.2234	smithslake/2MM03822_20250120_091202.wav	2628.0
+113	Spectrogram 1	1	2631.0	2634.0	0	12000.0	Common Bronzewing	combro1	0.1303	smithslake/2MM03822_20250120_091202.wav	2631.0
+114	Spectrogram 1	1	2634.0	2637.0	0	12000.0	Common Bronzewing	combro1	0.1013	smithslake/2MM03822_20250120_091202.wav	2634.0
+115	Spectrogram 1	1	2640.0	2643.0	0	12000.0	Common Bronzewing	combro1	0.1094	smithslake/2MM03822_20250120_091202.wav	2640.0
+116	Spectrogram 1	1	2652.0	2655.0	0	12000.0	Common Bronzewing	combro1	0.1134	smithslake/2MM03822_20250120_091202.wav	2652.0
+117	Spectrogram 1	1	2685.0	2688.0	0	12000.0	Common Bronzewing	combro1	0.1469	smithslake/2MM03822_20250120_091202.wav	2685.0
+118	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Common Bronzewing	combro1	0.1109	smithslake/2MM03822_20250120_091202.wav	2694.0
+119	Spectrogram 1	1	2694.0	2697.0	0	12000.0	Rose Robin	rosrob1	0.1078	smithslake/2MM03822_20250120_091202.wav	2694.0
+120	Spectrogram 1	1	2730.0	2733.0	0	12000.0	Common Bronzewing	combro1	0.1034	smithslake/2MM03822_20250120_091202.wav	2730.0
+121	Spectrogram 1	1	2733.0	2736.0	0	12000.0	Common Bronzewing	combro1	0.1000	smithslake/2MM03822_20250120_091202.wav	2733.0
+122	Spectrogram 1	1	2736.0	2739.0	0	12000.0	Common Bronzewing	combro1	0.1217	smithslake/2MM03822_20250120_091202.wav	2736.0
+123	Spectrogram 1	1	2739.0	2742.0	0	12000.0	Common Bronzewing	combro1	0.2055	smithslake/2MM03822_20250120_091202.wav	2739.0
+124	Spectrogram 1	1	2751.0	2754.0	0	12000.0	Common Bronzewing	combro1	0.2791	smithslake/2MM03822_20250120_091202.wav	2751.0
+125	Spectrogram 1	1	2757.0	2760.0	0	12000.0	Common Bronzewing	combro1	0.2490	smithslake/2MM03822_20250120_091202.wav	2757.0
+126	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Common Bronzewing	combro1	0.2838	smithslake/2MM03822_20250120_091202.wav	2760.0
+127	Spectrogram 1	1	2760.0	2763.0	0	12000.0	Red-browed Firetail	rebfir1	0.1187	smithslake/2MM03822_20250120_091202.wav	2760.0
+128	Spectrogram 1	1	2775.0	2778.0	0	12000.0	Common Bronzewing	combro1	0.1267	smithslake/2MM03822_20250120_091202.wav	2775.0
+129	Spectrogram 1	1	2781.0	2784.0	0	12000.0	Common Bronzewing	combro1	0.1463	smithslake/2MM03822_20250120_091202.wav	2781.0
+130	Spectrogram 1	1	2790.0	2793.0	0	12000.0	Common Bronzewing	combro1	0.1033	smithslake/2MM03822_20250120_091202.wav	2790.0
+131	Spectrogram 1	1	2805.0	2808.0	0	12000.0	Common Bronzewing	combro1	0.1312	smithslake/2MM03822_20250120_091202.wav	2805.0
+132	Spectrogram 1	1	2814.0	2817.0	0	12000.0	Common Bronzewing	combro1	0.1691	smithslake/2MM03822_20250120_091202.wav	2814.0
+133	Spectrogram 1	1	2832.0	2835.0	0	12000.0	Common Bronzewing	combro1	0.1367	smithslake/2MM03822_20250120_091202.wav	2832.0
+134	Spectrogram 1	1	2838.0	2841.0	0	12000.0	Common Bronzewing	combro1	0.4226	smithslake/2MM03822_20250120_091202.wav	2838.0
+135	Spectrogram 1	1	2856.0	2859.0	0	12000.0	Common Bronzewing	combro1	0.1789	smithslake/2MM03822_20250120_091202.wav	2856.0
+136	Spectrogram 1	1	2865.0	2868.0	0	12000.0	Common Bronzewing	combro1	0.2278	smithslake/2MM03822_20250120_091202.wav	2865.0
+137	Spectrogram 1	1	2868.0	2871.0	0	12000.0	Common Bronzewing	combro1	0.1557	smithslake/2MM03822_20250120_091202.wav	2868.0
+138	Spectrogram 1	1	2889.0	2892.0	0	12000.0	Common Bronzewing	combro1	0.3469	smithslake/2MM03822_20250120_091202.wav	2889.0
+139	Spectrogram 1	1	2892.0	2895.0	0	12000.0	Common Bronzewing	combro1	0.6939	smithslake/2MM03822_20250120_091202.wav	2892.0
+140	Spectrogram 1	1	2895.0	2898.0	0	12000.0	Common Bronzewing	combro1	0.6552	smithslake/2MM03822_20250120_091202.wav	2895.0
+141	Spectrogram 1	1	2898.0	2901.0	0	12000.0	Common Bronzewing	combro1	0.5566	smithslake/2MM03822_20250120_091202.wav	2898.0
+142	Spectrogram 1	1	2925.0	2928.0	0	12000.0	Common Bronzewing	combro1	0.1857	smithslake/2MM03822_20250120_091202.wav	2925.0
+143	Spectrogram 1	1	2955.0	2958.0	0	12000.0	Common Bronzewing	combro1	0.1076	smithslake/2MM03822_20250120_091202.wav	2955.0
+144	Spectrogram 1	1	3024.0	3027.0	0	12000.0	Common Bronzewing	combro1	0.1355	smithslake/2MM03822_20250120_091202.wav	3024.0
+145	Spectrogram 1	1	3027.0	3030.0	0	12000.0	Common Bronzewing	combro1	0.1212	smithslake/2MM03822_20250120_091202.wav	3027.0
+146	Spectrogram 1	1	3048.0	3051.0	0	12000.0	Crimson Rosella	criros2	0.1848	smithslake/2MM03822_20250120_091202.wav	3048.0
+147	Spectrogram 1	1	3048.0	3051.0	0	12000.0	Eastern Rosella	easros1	0.1799	smithslake/2MM03822_20250120_091202.wav	3048.0
+148	Spectrogram 1	1	3162.0	3165.0	0	12000.0	Willie-wagtail	wilwag1	0.6982	smithslake/2MM03822_20250120_091202.wav	3162.0
+149	Spectrogram 1	1	3171.0	3174.0	0	12000.0	Willie-wagtail	wilwag1	0.3326	smithslake/2MM03822_20250120_091202.wav	3171.0
+150	Spectrogram 1	1	3192.0	3195.0	0	12000.0	Grey Fantail	gryfan1	0.6942	smithslake/2MM03822_20250120_091202.wav	3192.0
+151	Spectrogram 1	1	3252.0	3255.0	0	12000.0	Variegated Fairywren	varfai5	0.1691	smithslake/2MM03822_20250120_091202.wav	3252.0
+152	Spectrogram 1	1	3306.0	3309.0	0	12000.0	Noisy Friarbird	noifri1	0.1171	smithslake/2MM03822_20250120_091202.wav	3306.0
+153	Spectrogram 1	1	3309.0	3312.0	0	12000.0	Common Bronzewing	combro1	0.1220	smithslake/2MM03822_20250120_091202.wav	3309.0
+154	Spectrogram 1	1	3420.0	3423.0	0	12000.0	Brown Gerygone	broger1	0.6430	smithslake/2MM03822_20250120_091202.wav	3420.0
+155	Spectrogram 1	1	3429.0	3432.0	0	12000.0	Brown Gerygone	broger1	0.7237	smithslake/2MM03822_20250120_091202.wav	3429.0
+156	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Brown Gerygone	broger1	0.1455	smithslake/2MM03822_20250120_091202.wav	3435.0
+157	Spectrogram 1	1	3435.0	3438.0	0	12000.0	Silvereye	silver3	0.1103	smithslake/2MM03822_20250120_091202.wav	3435.0
+158	Spectrogram 1	1	3438.0	3441.0	0	12000.0	Brown Gerygone	broger1	0.2013	smithslake/2MM03822_20250120_091202.wav	3438.0
+159	Spectrogram 1	1	3438.0	3441.0	0	12000.0	White-browed Scrubwren	whbscr1	0.1423	smithslake/2MM03822_20250120_091202.wav	3438.0
+160	Spectrogram 1	1	3465.0	3468.0	0	12000.0	Grey Fantail	gryfan1	0.4736	smithslake/2MM03822_20250120_091202.wav	3465.0
+161	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Grey Fantail	gryfan1	0.8817	smithslake/2MM03822_20250120_091202.wav	3510.0
+162	Spectrogram 1	1	3510.0	3513.0	0	12000.0	Grey Shrikethrush	grysht1	0.1380	smithslake/2MM03822_20250120_091202.wav	3510.0
+163	Spectrogram 1	1	3513.0	3516.0	0	12000.0	Grey Fantail	gryfan1	0.6966	smithslake/2MM03822_20250120_091202.wav	3513.0
+164	Spectrogram 1	1	3534.0	3537.0	0	12000.0	Grey Fantail	gryfan1	0.3801	smithslake/2MM03822_20250120_091202.wav	3534.0
+165	Spectrogram 1	1	3543.0	3546.0	0	12000.0	Grey Fantail	gryfan1	0.5120	smithslake/2MM03822_20250120_091202.wav	3543.0
+166	Spectrogram 1	1	3567.0	3570.0	0	12000.0	Eastern Spinebill	easspi1	0.5001	smithslake/2MM03822_20250120_091202.wav	3567.0
+167	Spectrogram 1	1	3570.0	3573.0	0	12000.0	Eastern Spinebill	easspi1	0.1521	smithslake/2MM03822_20250120_091202.wav	3570.0

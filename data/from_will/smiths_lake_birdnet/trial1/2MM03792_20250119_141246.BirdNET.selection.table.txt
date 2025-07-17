@@ -1,0 +1,7 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	15.0	18.0	0	12000.0	Red-browed Firetail	rebfir1	0.1302	smithslake/2MM03792_20250119_141246.wav	15.0
+2	Spectrogram 1	1	18.0	21.0	0	12000.0	Red-browed Firetail	rebfir1	0.1915	smithslake/2MM03792_20250119_141246.wav	18.0
+3	Spectrogram 1	1	54.0	57.0	0	12000.0	Common Bronzewing	combro1	0.1107	smithslake/2MM03792_20250119_141246.wav	54.0
+4	Spectrogram 1	1	63.0	66.0	0	12000.0	Red-browed Firetail	rebfir1	0.3714	smithslake/2MM03792_20250119_141246.wav	63.0
+5	Spectrogram 1	1	66.0	69.0	0	12000.0	Red-browed Firetail	rebfir1	0.1388	smithslake/2MM03792_20250119_141246.wav	66.0
+6	Spectrogram 1	1	72.0	75.0	0	12000.0	Red-browed Firetail	rebfir1	0.3878	smithslake/2MM03792_20250119_141246.wav	72.0
