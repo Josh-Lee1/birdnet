@@ -106,6 +106,8 @@ post <- bind_rows(posta, postb) %>%
 both <- bind_rows(post, field, birdnet) %>% 
   arrange(AEDT_Timestamp)
 
+saveRDS(both, "data/cleaned_raw_firsthour.rds")
+
 ######### 
 library(fuzzyjoin)
 
