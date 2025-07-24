@@ -249,4 +249,61 @@ venn_plots <- imap(detection_matrices, function(df_bin, bin_name) {
 
 # ---- Combine with patchwork ----
 venn_timebins<- wrap_plots(venn_plots, ncol = 4) + plot_annotation(title = "Detection Agreement per Time Bin")
-ggsave("figures/venn_timebins.png", venn_timebins, width = 12, height = 8, dpi = 300)
+ggsave("figures/venn_timebins.png", venn_timebins, width = 18, height = 12, dpi = 300)
+
+########
+# try stacked
+
+venn_data_list <- lapply(detection_matrices, function(df_bin) {
+  df_bin %>%
+    rowwise() %>%
+    mutate(methods_detected = sum(c_across(field:birdnet))) %>%
+    ungroup() %>%
+    count(methods_detected) %>%
+    complete(methods_detected = 1:3, fill = list(n = 0))
+})
+
+# Named list of time bins
+bin_names <- names(detection_matrices)
+
+# Convert to long format
+venn_summary <- imap_dfr(detection_matrices, function(df_bin, bin_name) {
+  df_bin %>%
+    mutate(venn_group = case_when(
+      field & !post & !birdnet ~ "Only Field",
+      !field & post & !birdnet ~ "Only Post",
+      !field & !post & birdnet ~ "Only BirdNET",
+      field & post & !birdnet ~ "Field + Post",
+      field & !post & birdnet ~ "Field + BirdNET",
+      !field & post & birdnet ~ "Post + BirdNET",
+      field & post & birdnet ~ "All Three",
+      TRUE ~ "None"
+    )) %>%
+    count(venn_group) %>%
+    filter(venn_group != "None") %>%  # exclude non-detections
+    mutate(time_bin = bin_name)
+})
+
+venn_props <- venn_summary %>%
+  group_by(time_bin) %>%
+  mutate(prop = n / sum(n)) %>%
+  ungroup() %>%
+  mutate(
+    venn_group = factor(venn_group, levels = c(
+      "Only Field", "Only Post", "Only BirdNET",
+      "Field + Post", "Field + BirdNET", "Post + BirdNET", "All Three"
+    )),
+    time_bin = factor(time_bin, levels = names(detection_matrices))  # preserve order
+  )
+
+ggplot(venn_props, aes(x = time_bin, y = prop, fill = venn_group)) +
+  geom_col(position = "stack") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  labs(
+    x = "Time Bin",
+    y = "Proportion of detections",
+    fill = "",
+    title = "Detection Agreement in different Time Bins"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
